@@ -1,5 +1,7 @@
 Effective Date: May 4, 2026
 LetterScramble is a simple text creation tool that allows users to arrange words based on the number of rows and the word direction they choose. Users may also save messages within the app for later use.
+Letter Scramble includes optional Apple Game Center turn-based multiplayer, which requires users to be signed in to Game Center on their device.
+
 Support
 If you need help with LetterScramble, have a question, or want to report an issue, you may contact:
 [Your Name or Company Name]
