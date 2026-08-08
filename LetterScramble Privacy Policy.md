@@ -7,13 +7,14 @@ Here is a simple privacy policy you can use and adjust for your LetterScramble a
 
 **Effective Date:** May 4, 2026
 
-LetterScramble is a simple text creation tool that allows users to arrange words based on the number of rows and the word direction they choose. Users may also save messages within the app for later use.
+LetterScramble is a simple text creation tool that allows users to arrange words based on the number of rows and the word direction they choose. Users may also save messages within the app for later use. LetterScramble now includes a puzzle mode which can be played with 1-8 players in a pass around or using gamecenter. No data of any kind is ever used or collected. 
 
 ## Information We Collect
 
 LetterScramble does **not** collect, store, transmit, sell, or share any personal information.
 
-The app does not require users to create an account, provide an email address, or submit any personal data.
+The app does not require users to create an account, provide an email address, or submit any personal data. 
+Use of Apple's game center is optional. When using game center, no data is ever collected or used by LetterScramble. 
 
 ## Saved Messages
 
